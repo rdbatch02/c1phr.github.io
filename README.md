@@ -1,1 +1,1 @@
-# batchofcode.com
+# batchofcode.com [![Build Status](https://travis-ci.org/c1phr/c1phr.github.io.svg)](https://travis-ci.org/c1phr/c1phr.github.io)
