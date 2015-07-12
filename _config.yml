@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://rdbatch.me" # the base hostname & protocol for your site
+url: "http://batchofcode.com" # the base hostname & protocol for your site
 exclude: [vendor]
 # THEME-SPECIFIC CONFIGURATION
 theme:
