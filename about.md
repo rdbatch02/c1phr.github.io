@@ -2,11 +2,8 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "img/sample_feature_img_2.png"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+I'm Ryan Batchelder: Computer Science student at [Northern Arizona Univeristy](http://nau.edu/cefns) seeking graduation in 2016, [hobbiest photographer](https://500px.com/c1phr), avid coffee drinker and hockey fan. My programming interests are primarily in web and mobile development. I currently do work as an ASP.NET developer (both Web Forms and MVC) and have started dabbling in Node.JS and Swift on the side. 
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+Feel free to contact me on [Twitter](https://twitter.com/c1phr) or via email, I love to talk about almost anything tech-related and I love learning from others.
