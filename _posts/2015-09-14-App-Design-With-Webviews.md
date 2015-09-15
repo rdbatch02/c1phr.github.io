@@ -15,7 +15,7 @@ I've considered a few options to the cross-platform problem:
 
 I still want to write some native code, but I could probably do a much better job laying out some of my interfaces if I could do it in HTML and CSS. On top of making it easier, I could also re-purpose that code for both platforms. Enter webviews.
 
-## So, webviews
+## So, webviews...
 Both iOS and Android support a UI element called Webviews. A webview is basically just an object that will render HTML, CSS and JavaScript inside of a native application. Webviews don't provide any additional controls for the web page, so it's a seamless element that can be essentially indistinguisable from native UI to users.
 
 On top of being more straightforward to use, these webview UIs are portable between platforms. The only code that I'll have to tweak is CSS to make sure everything looks good on multiple screen sizes. Webviews are going to help me get to launch day much quicker than before, and I have a feeling that Android won't be too far behind.
