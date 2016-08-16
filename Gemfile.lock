@@ -88,3 +88,8 @@ PLATFORMS
 DEPENDENCIES
   html-proofer
   jekyll
+  jekyll-paginate
+  redcarpet
+
+BUNDLED WITH
+   1.10.6
