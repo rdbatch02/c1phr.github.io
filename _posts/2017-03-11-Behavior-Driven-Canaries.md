@@ -2,6 +2,7 @@
 layout: post
 title: Behavior Driven Canary Deployments
 comments: true
+description: Using BDD techniques to drive canary release validation and automation
 ---
 
 The concept of [canary deployments is not new](https://martinfowler.com/bliki/CanaryRelease.html). At a high level, this method of deployment involves rolling out a new version to a small subset of users in order to minimize the potential impact of a bad build. When the canary is determined to be healthy, it is promoted and released to all users. If the canary is bad, it is removed from service and users are reverted to the previous stable version. Observability and automatability are two important factors involved in building a system that can be canary-ed. 
