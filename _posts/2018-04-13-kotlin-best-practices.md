@@ -2,6 +2,7 @@
 layout: post
 title: Kotlin Best Practices
 comments: true
+description: For many Kotlin adopters coming from Java, it's natural to start writing Kotlin in the same style that you're used to. After all, many of the constructs and libraries are the same, so it's easy to continue writing code the same way you always have. Kotlin is all about saving time and improving code **maintainability** through **readability**, and these Java conventions frequently detract from that.
 ---
 
 For many Kotlin adopters coming from Java, it's natural to start writing Kotlin in the same style that you're used to. After all, many of the constructs and libraries are the same, so it's easy to continue writing code the same way you always have. Kotlin is all about saving time and improving code **maintainability** through **readability**, and these Java conventions frequently detract from that.

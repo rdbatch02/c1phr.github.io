@@ -7,7 +7,7 @@ gems: [jekyll-paginate]
 theme_settings:
   # Meta
   title: Batch of Code
-  avatar: avatar.png
+  avatar: avatar.jpg
   gravatar: "61ac87388e3c30fd7c0a1551f59b9040"
   description: "Musings on software, hardware, and anything in between by Ryan Batchelder." # used by search engines
 
@@ -30,7 +30,7 @@ theme_settings:
   github: "c1phr"
   google_plus:
   instagram:
-  linkedin:  # Full URL
+  linkedin: https://www.linkedin.com/in/rdbatch02/
   pinterest:
   reddit:
   soundcloud:
