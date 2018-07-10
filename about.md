@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm Ryan Batchelder: Software Developer at [Liberty Mutual Insurance Group](https://www.libertymutual.com), [Northern Arizona University](http://nau.edu/cefns) alumnus with a BS in Computer Science, [hobbyist photographer](https://500px.com/c1phr), avid coffee drinker and hockey fan. My programming interests are primarily in web and mobile development. My professional experience spans Kotlin with Spring, Java, C# ASP.NET and JavaScript, but I also enjoy working in Swift and Python among other languages.
+My name is Ryan Batchelder and I'm a software engineer building cloud-native web applications using modern technologies at Liberty Mutual Insurance. Starting with a background in C# and .NET, I moved into the Java world and was promptly disgusted by the language. This led me to Kotlin and started a trend of pitching Kotlin to anyone who would listen. I also enjoy working with Swift and Python when the opportunity arises. I got my BS in Computer Science from [Northern Arizona University](http://nau.edu/cefns). In my time away from the keyboard, I enjoy photography, hockey, and am an unapologetic aviation geek.
 
 Feel free to contact me on [Twitter](https://twitter.com/c1phr) or via email, I love to talk about almost anything tech-related and I love learning from others. Also checkout my open source work on [Github](https://github.com/c1phr) or find me on [LinkedIn](https://www.linkedin.com/in/rdbatch02/).
 
