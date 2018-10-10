@@ -12,19 +12,19 @@ Our teams tend to start writing Kotlin the same way, though we've come a long wa
 
 ### Contents
 
-[1. Embrace Immutability](#embrace-immutability)  
-[2. Ditch ArrayList && Hash Map](#ditch-arraylist--hashmap)  
-[3. Use Functional Constructs](#use-functional-constructs)  
-[4. javaClass](#javaclass)  
-[5. String Interpolation](#string-interpolation)  
-[6. Infer Types](#infer-types)  
-[7. Semantic Test Naming](#semantic-test-naming)  
-[8. Safe Operator?](#safe-operator)  
-[9. Elvis Throws](#elvis-throws)  
-[10. List Literals in Annotations](#list-literals-in-annotations)  
-[11. Collection Helpers](#collection-helpers)  
-[12. No more .equals()](#no-more-equals)  
-[13. Method Readability - Named Parameters](#method-readability---named-parameters)  
+[1. Embrace Immutability](#1-embrace-immutability)  
+[2. Ditch ArrayList && Hash Map](#2-ditch-arraylist--hashmap)  
+[3. Use Functional Constructs](#3-use-functional-constructs)  
+[4. javaClass](#4-javaclass)  
+[5. String Interpolation](#5-string-interpolation)  
+[6. Infer Types](#6-infer-types)  
+[7. Semantic Test Naming](#7-semantic-test-naming)  
+[8. Safe Operator?](#8-safe-operator)  
+[9. Elvis Throws](#9-elvis-throws)  
+[10. List Literals in Annotations](#10-list-literals-in-annotations)  
+[11. Collection Helpers](#11-collection-helpers)  
+[12. No more .equals()](#12-no-more-equals)  
+[13. Method Readability - Named Parameters](#13-method-readability---named-parameters)  
 [Learn More](#want-to-learn-more)
 
 ## 1. Embrace Immutability
