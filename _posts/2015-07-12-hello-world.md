@@ -11,4 +11,4 @@ By the time I started focusing on the web again, I was learning real web "develo
 
 Academically, I've done research work in heathcare informatics in cooperation with Northern Arizona Healthcare. That project gave me the opportunty to learn web development with Django and Postgres while working with GIS mapping data.
 
-My hope for this blog is to chronicle my work through my career as a software engineer as I continue to learn and grow. Feel free to get in contact with me either in the comments below or on [Twitter](https://twitter.com/c1phr).
+My hope for this blog is to chronicle my work through my career as a software engineer as I continue to learn and grow. Feel free to get in contact with me either in the comments below or on [Twitter](https://twitter.com/rdbatch02).

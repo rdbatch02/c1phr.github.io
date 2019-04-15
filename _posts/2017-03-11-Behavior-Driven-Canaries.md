@@ -28,7 +28,7 @@ If you roll out a new canary build to a handful of users, you can watch for thos
 
 ## Test Pilot
 
-In hopes of leveraging this pattern with my team at Liberty Mutual, I've started building [Test-Pilot](https://github.com/c1phr/test-pilot) as a way to watch our application event logs when a new build is deployed as a canary, and handle automatically promoting for us. This way, we don't need to manually generate reports from our events to make decisions, and promotion can happen well after we've left the office for the day. 
+In hopes of leveraging this pattern with my team at Liberty Mutual, I've started building [Test-Pilot](https://github.com/rdbatch02/test-pilot) as a way to watch our application event logs when a new build is deployed as a canary, and handle automatically promoting for us. This way, we don't need to manually generate reports from our events to make decisions, and promotion can happen well after we've left the office for the day. 
 
 Test Pilot is very much in the early stages, but many of the basic components are in place. It runs as a Spring Boot application somewhere in your infrastructure. Then it is fed an API to poll for new events, and it's provided with a test plan (JSON for now) which specifies which events and which application version it should match against. When all of the rules in the plan have been matched, promotion is triggered. Currently promotions are handled by triggering a Bamboo deployment, but I'm hoping to add email notification and basic web hooks at the very least, and let the community add other triggers as they wish.
 
