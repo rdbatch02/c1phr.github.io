@@ -38,7 +38,8 @@ header {
     color: $feature-image-text-color;
     background-size: $feature-image-size;
     margin-bottom: 0;
-    padding: $padding-large/2.5 $padding-large;
+    padding: $padding-large/2.5 $padding-large;    
+    text-shadow: 2px 2px 8px #000000;
     .meta {
       color: rgba($feature-image-text-color, .7);
     }
